@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/cakepick/static/css/main.d6b18e35.css",
+    "main.js": "/cakepick/static/js/main.799b8ad6.js",
+    "static/js/453.ed3810f9.chunk.js": "/cakepick/static/js/453.ed3810f9.chunk.js",
+    "static/media/banner.png": "/cakepick/static/media/banner.07a70b8648217b73629b.png",
+    "static/media/sp_main.png": "/cakepick/static/media/sp_main.b27083b16d154a978e44.png",
+    "index.html": "/cakepick/index.html",
+    "main.d6b18e35.css.map": "/cakepick/static/css/main.d6b18e35.css.map",
+    "main.799b8ad6.js.map": "/cakepick/static/js/main.799b8ad6.js.map",
+    "453.ed3810f9.chunk.js.map": "/cakepick/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6b18e35.css",
+    "static/js/main.799b8ad6.js"
+  ]
+}
